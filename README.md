@@ -19,10 +19,11 @@ Please first download light field datasets, and put them into corresponding fold
   ```python
   python test.py
 
-```
+
 ## Acknowledgement
 Our work and implementations are based on the following projects: <br> 
 [LF-EASR](https://github.com/GaoshengLiu/LF-EASR)<br> 
 [LFASR-geo](https://github.com/jingjin25/LFASR-geometry)<br> 
 [LF-DFnet](https://github.com/YingqianWang/LF-DFnet)<br> 
 We sincerely thank the authors for sharing their code and amazing research work!
+
